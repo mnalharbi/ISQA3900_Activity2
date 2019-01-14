@@ -184,4 +184,5 @@ nav a.selected, nav a:hover {
 body {
     background-color: #fff;
     color: #000;
+    background-image: linear-gradient(red, yellow);
 }
